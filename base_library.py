@@ -6,6 +6,13 @@
     . Scipy: It is a collection of functions for scientific computing in Python.
     . marplotlib: It is the primary scientific plotting library in Python.
     . pandas: It is a Python library for data wrangling and analysis.
+
+    Numpy version: 1.16.2
+    Scipy version: 1.2.1
+    Pandas version: 0.24.2
+    Matplotlib version: 3.0.3
+    IPython version: 7.4.0
+    scikit-learn version: 0.20.3
 '''
 import os
 import sys
