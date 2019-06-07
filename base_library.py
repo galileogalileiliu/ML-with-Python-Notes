@@ -28,3 +28,7 @@ print('scikit-learn version: {}'.format(sklearn.__version__))
 # test how to push to github
 # test how to push to github2
 # test how to push to github3
+# In VS Code, need to add remark message, click command+Enter
+# Then exec 'Push'
+# Git will then really push the change to the github
+# These two steps must be together.
