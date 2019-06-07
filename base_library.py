@@ -24,3 +24,5 @@ print('Pandas version: {}'.format(pd.__version__))
 print('Matplotlib version: {}'.format(matplotlib.__version__))
 print('IPython version: {}'.format(IPython.__version__))
 print('scikit-learn version: {}'.format(sklearn.__version__))
+
+# test how to push to github
