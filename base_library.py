@@ -7,6 +7,7 @@
     . marplotlib: It is the primary scientific plotting library in Python.
     . pandas: It is a Python library for data wrangling and analysis.
 
+    ---- 2019/6/7 ----
     Numpy version: 1.16.2
     Scipy version: 1.2.1
     Pandas version: 0.24.2
