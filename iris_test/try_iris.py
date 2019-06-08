@@ -25,3 +25,15 @@ print('The data shape of Iris is (150.4), this means that')
 print('there are 150 records in iris_data and 4 features of each record')
 print('In machine learning, we call them sample and features.')
 print('That is, 150 sample and 4 features of each sample.')
+
+# The target array contains the species of each of the flows
+# Also, as a numpay array, numpy.ndarray
+# Shows  the target type
+print('Iris sample type: {}'.format(type(iris_data['target'])))
+
+# target is a one dimension array, with one entry per flower
+print('Shape of target: {}'.format(iris_data['target'].shape))
+
+# The species are encoded as integers from 0 to 2.
+# There meanings are given by iris_data['target_names']
+print('Targets:\n {}'.format(iris_data['target']))
